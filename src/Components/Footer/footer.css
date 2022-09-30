@@ -1,0 +1,11 @@
+
+.socials a{
+margin: 1em;
+font-size: 1.2em;
+}
+.socials {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
